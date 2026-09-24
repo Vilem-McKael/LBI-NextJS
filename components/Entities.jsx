@@ -21,7 +21,7 @@ export default function Entities() {
             </div>
 
             <div className='entity-content'>
-                Synthesizer Systems Technologies - <a href='https://sstsynthrentals.com' className='entity-link'>SSTSynthRentals.com</a>
+                Synthesizer Systems Technologies - <a href='https://sstsynthrentals.com' className='entity-link'>SSTSynthRentals.com</a> || rework in progress!
             </div>
 
             <div className='entity-content'>
